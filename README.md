@@ -1,1 +1,1 @@
-# example.github.io
+# Course Landing Page
